@@ -1,48 +1,49 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "¿Who are we?"
+excerpt: "About us"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-El Semillero Estudiantil de Investigación en Física-Matemática (SEIFM) de la Universidad Pedagógica Nacional es un espacio académico dedicado a la investigación rigurosa en los campos de la Mecánica Cuántica, la Relatividad General y las Matemáticas.
+The 'Semillero Estudiantil de Investigación en Física-Matemática' [SEIFM](https://www.instagram.com/seinfismat/) of the Universidad Pedagógica Nacional is an academic space dedicated to rigorous research. It has three lines of research:
+1. Quantum Mechanics
+1. General Theory of Relativity 
+1. Mathematics
 
-Investigación en el SEIFM
+SEIFM Research:
 ======
-Nuestro semillero se enfoca en la promoción y realización de investigaciones de alta calidad en áreas científicas de relevancia. Los proyectos de investigación llevados a cabo por nuestros miembros a menudo culminan en tesis de pregrado que contribuyen al avance del conocimiento en sus respectivos campos.
+Our research group focuses on promoting and conducting high quality research in relevant scientific areas. The research projects carried out by our members often culminate in undergraduate theses that contribute to the advancement of knowledge in their respective fields.
 
-Colaboración y Desarrollo Académico
+Collaboration and Academic Development
 ======
-Fomentamos la colaboración interdisciplinaria entre estudiantes y tutores altamente calificados, brindando a nuestros miembros la oportunidad de desarrollar habilidades de investigación y establecer conexiones académicas valiosas.
+We foster interdisciplinary collaboration between students and highly qualified tutors, providing our members with the opportunity to develop research skills and establish valuable academic connections.
 
-Compromiso con la Ciencia
+Commitment to Science
 ======
-En el SEIFM, estamos comprometidos con el rigor científico y la excelencia académica. Nuestro semillero representa un paso significativo hacia la formación de futuros científicos.
+At [SEIFM](https://www.instagram.com/seinfismat/), we are committed to scientific rigor and academic excellence. Our seedbed represents a significant step towards the training of future scientists.
 
-Le invitamos a explorar más sobre nuestras líneas de investigación y a unirse a nosotros en la búsqueda del conocimiento y la excelencia científica en
+Le invitamos a explorar más sobre nuestras líneas de investigación y a unirse a nosotros en la búsqueda del conocimiento y la excelencia científica.
 
-Primer Seminario Estudiantil en Física-Matemática
+First Student Seminar in Mathematical Physics
 ------
-El "Primer Seminario Estudiantil en Física-Matemática" fue un evento colaborativo entre el [SEIFM](https://www.instagram.com/seinfismat/) de la Universidad Pedagógica Nacional y  [AstroUD](https://www.instagram.com/astro_ud/) de la Universidad Distrital Francisco José de Caldas. Este seminario brindó una oportunidad única para explorar dos áreas de investigación avanzada en dos charlas magistrales. 
+The "First Student Seminar in Mathematical Physics" was a collaborative event between the [SEIFM](https://www.instagram.com/seinfismat/) of the Universidad Pedagógica Nacional and [AstroUD](https://www.instagram.com/astro_ud/) of the Universidad Distrital Francisco José de Caldas. This seminar provided a unique opportunity to explore two areas of advanced research in two keynote talks.
 ![Flyer Primer Seminario Estudiantil en Física-Matemática](/images/flyer1.jpeg)
 
-Charla 'Un breve recorrido por la Cosmología Relativista'
+Talk 'Un breve recorrido por la Cosmología Relativista'
 ------
-Esta charla divulgativa se da a los estudiantes de educación media del Colegio de la Universidad Libre para despertar el interés de las y los jóvenes por esta hermosa disciplina científica. Por Juana V. Pinzón.
+This informative talk is given to high school students of the 'Colegio de la Universidad Libre' to awaken the interest of young people in this beautiful scientific discipline. By Juana V. Pinzón.
 ![Flyer Un breve recorrido por la Cosmología Relativista](/images/brcr.jpeg)
 
-Charla 'Una introducción a teorías de altas dimensiones: Teoría de Kaluza-Klein'
+Talk 'Una introducción a teorías de altas dimensiones: Teoría de Kaluza-Klein'
 ------
-Esta charla tomó a la Teoría General de la Relatividad de Einstein como punto de partida, en donde es necesario hacer modificaciones estructurales a la teoría para introducir al electromagnetismo como una perturbación espacio-temporal más, pero el precio a pagar es la adición de una dimensión espacial, conformando un espacio-tiempo de cinco dimensiones. Por Nicolás Pérez.
-
+This talk took Einstein's General Theory of Relativity as a starting point, where it is necessary to make structural modifications to the theory to introduce electromagnetism as another type of space-time perturbation, but the price to pay is the addition of a spatial dimension, conforming a five-dimensional space-time. By Nicolás Pérez.
 ![Flyer Una introducción a teorías de altas dimensiones: Teoría de Kaluza-Klein](/images/kkad.jpeg)
 
-Charla 'Más allá de las dimensiones: Explorando Sólidos con Grafos'
+Talk 'Más allá de las dimensiones: Explorando Sólidos con Grafos'
 ------
-Esta charla tomó a la Teoría General de la Relatividad de Einstein como punto de partida, en donde es necesario hacer modificaciones estructurales a la teoría para introducir al electromagnetismo como una perturbación espacio-temporal más, pero el precio a pagar es la adición de una dimensión espacial, conformando un espacio-tiempo de cinco dimensiones. Por Nicolás Mahecha.
-
+This talk explores how graphs can be used to represent multidimensional solids based on numerical patterns, organized by Combinatorial concepts. By Nicolás Mahecha.
 ![Flyer Más allá de las dimensiones: Explorando Sólidos con Grafos](/images/nicolam.jpeg)
 

@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "SEIFM"
-  avatar           : "/images/seifmlogo2.jpeg"
+  avatar           : "seifmlogo2.jpeg"
   bio              : "Research group led by Professor Sandra Ávila, Physics Department, Universidad Pedagógica Nacional."
   location         : "Bogotá, Colombia"
   employer         :

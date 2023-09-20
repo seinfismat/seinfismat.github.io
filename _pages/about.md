@@ -44,5 +44,5 @@ Charla 'Más allá de las dimensiones: Explorando Sólidos con Grafos'
 ------
 Esta charla tomó a la Teoría General de la Relatividad de Einstein como punto de partida, en donde es necesario hacer modificaciones estructurales a la teoría para introducir al electromagnetismo como una perturbación espacio-temporal más, pero el precio a pagar es la adición de una dimensión espacial, conformando un espacio-tiempo de cinco dimensiones. Por Nicolás Mahecha.
 
-![Flyer Una introducción a teorías de altas dimensiones: Teoría de Kaluza-Klein](/images/kkad.jpeg)
+![Flyer Más allá de las dimensiones: Explorando Sólidos con Grafos](/images/nicolam.jpeg)
 

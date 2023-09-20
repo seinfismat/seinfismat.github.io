@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "First Student Seminar in Physics-Mathematics - Session I. Talk by Daniel Ladino."
+    url: https://www.youtube.com/watch?v=ktTKA-6XcPQ
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "First Student Seminar in Physics-Mathematics - Session II. Talk by Jonhatan Bernal Salinas."
+    url: https://www.youtube.com/watch?v=8sTvijFJ5sU&t=58s   
 
   - title: "Teaching"
     url: /teaching/    

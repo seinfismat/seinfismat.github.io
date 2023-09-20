@@ -13,7 +13,7 @@ The 'Semillero Estudiantil de Investigación en Física-Matemática' [(SEIFM)](h
 1. General Theory of Relativity 
 1. Mathematics
 
-SEIFM Research:
+SEIFM Research
 ======
 Our research group focuses on promoting and conducting high quality research in relevant scientific areas. The research projects carried out by our members often culminate in undergraduate theses that contribute to the advancement of knowledge in their respective fields.
 

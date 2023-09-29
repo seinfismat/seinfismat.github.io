@@ -9,7 +9,7 @@ redirect_from:
 ---
 Talk 'Más allá de las dimensiones: Explorando Sólidos con Grafos'
 ------
-This talk explores how graphs can be used to represent multidimensional solids based on numerical patterns, organized by Combinatorial concepts. By [Nicolás Mahecha](http://funes.uniandes.edu.co/12869/).
+This talk explores how graphs can be used to represent multidimensional solids based on numerical patterns, organized by combinatorial concepts. By [Nicolás Mahecha](http://funes.uniandes.edu.co/12869/).
 ![Flyer Más allá de las dimensiones: Explorando Sólidos con Grafos](/images/nicolam.jpeg){: width="500px"}
 
 Talk 'Una introducción a teorías de altas dimensiones: Teoría de Kaluza-Klein'

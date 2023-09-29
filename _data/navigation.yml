@@ -1,6 +1,8 @@
 # main links links
 main:
 
+  - title: "CV"
+    url: /cv/
 
   - title: "FSSMP-SI. By Daniel Ladino."
     url: https://www.youtube.com/watch?v=ktTKA-6XcPQ
@@ -8,7 +10,7 @@ main:
   - title: "FSSMP-SII. By Jonhatan Bernal."
     url: https://www.youtube.com/watch?v=8sTvijFJ5sU&t=58s   
 
-  - title: "Coming soon: Mathematics Seminar On November 2023"
+  - title: "Mathematics Seminar Program"
     url: /files/Seminario de Matemáticas 2023 (Programa).pdf   
     
   #- title: "Portfolio"
@@ -17,8 +19,7 @@ main:
   #- title: "Blog Posts"
    # url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
     
   #- title: "Guide"
    # url: /markdown/

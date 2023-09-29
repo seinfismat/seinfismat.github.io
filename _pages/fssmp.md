@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "About Us"
-permalink: /cv/
+title: "FSSOMP 2022"
+permalink: /fssomp/
 author_profile: true
 redirect_from:
   - /resume

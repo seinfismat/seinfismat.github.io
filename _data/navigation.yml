@@ -7,14 +7,16 @@ main:
   - title: "FSSOMP 2022"
     url: /fssomp/
 
-  - title: "FSSMP-SI. By Daniel Ladino."
-    url: https://www.youtube.com/watch?v=ktTKA-6XcPQ
-
-  - title: "FSSMP-SII. By Jonhatan Bernal."
-    url: https://www.youtube.com/watch?v=8sTvijFJ5sU&t=58s   
-
   - title: "Mathematics Seminar Program"
-    url: /files/Seminario de Matemáticas 2023 (Programa).pdf   
+    url: /files/Seminario de Matemáticas 2023 (Programa).pdf 
+
+  #- title: "FSSMP-SI. By Daniel Ladino."
+   # url: https://www.youtube.com/watch?v=ktTKA-6XcPQ
+
+  #- title: "FSSMP-SII. By Jonhatan Bernal."
+   # url: https://www.youtube.com/watch?v=8sTvijFJ5sU&t=58s   
+
+  
     
   #- title: "Portfolio"
    # url: /portfolio/

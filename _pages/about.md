@@ -25,7 +25,7 @@ Commitment to Science
 ======
 At [SEIFM](https://www.instagram.com/seinfismat/), we are committed to scientific rigor and academic excellence. Our seedbed represents a significant step towards the training of future scientists.
 
-Le invitamos a explorar más sobre nuestras líneas de investigación y a unirse a nosotros en la búsqueda del conocimiento y la excelencia científica.
+We invite you to explore more about our lines of research and join us in the pursuit of knowledge and scientific excellence.
 
 Talk 'Más allá de las dimensiones: Explorando Sólidos con Grafos'
 ------

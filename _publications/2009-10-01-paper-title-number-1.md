@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Introduction to DFT and its implementation in SIESTA"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'These are the slides presented in Session I of the First Student Seminar On Mathematical Physics.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Universidad Distrital Francisco José de Caldas'
+paperurl: 'https://www.youtube.com/watch?v=ktTKA-6XcPQ'
+citation: 'Ladino, D. (2022). Introduction to DFT and its implementation in SIESTA; <i>Departamento de Física, Universidad Distrital Francisco José de Caldas</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[Download presentation here](Ladino, D. (2022). Introducción a DFT. FSSOMP.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ladino, D. (2022). Introduction to DFT and its implementation in SIESTA; <i>Departamento de Física, Universidad Distrital Francisco José de Caldas</i>. 1(1).'

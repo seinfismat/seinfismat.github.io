@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SEIFM | Home"
+title                    : "SEIFM | Website"
 title_separator          : "-"
 name                     : &name "Semillero Estudiantil de Investigación en Física-Matemática"
 description              : &description "Hi, people. This is the official SEIFM Website, where you can find our information and you'll be able to contact us."

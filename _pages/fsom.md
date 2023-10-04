@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-El <i>Seminario de Matemáticas</i> en la Universidad Pedagógica Nacional se organiza con el objetivo de promover el avance y la diversidad en el campo de las Matemáticas. Este evento, a nombre del <i>SEIFM</i>, proporcionará un espacio para presentar temáticas avanzadas, fomentar la colaboración académica y estimular la formación de estudiantes y profesores.
+The <i>First Seminar On Mathematics</i> at the Universidad Pedagógica Nacional is organized with the objective of promoting advancement and diversity in the field of Mathematics. This event, on behalf of the <i>SEIFM</i>, will provide a space to present advanced topics, foster academic collaboration and stimulate the training of students and teachers.
 
 Justification
 ======

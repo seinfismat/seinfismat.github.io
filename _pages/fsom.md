@@ -13,14 +13,14 @@ The <i>First Seminar On Mathematics</i> at the Universidad Pedagógica Nacional 
 
 Justification
 ======
-Holding the 'Mathematics Seminar' at the Universidad Pedagógica Nacional is essential due to its ability to foster advancement and diversity in Mathematics. This event will allow the presentation of cutting-edge research, facilitate academic collaboration and promote the formation of the university community. In addition, the seminar will encourage critical reflection on contemporary challenges in the discipline, thus reinforcing the university's position as a center of excellence in Mathematics.
+Holding the <i>First Seminar On Mathematics</i> at the Universidad Pedagógica Nacional is essential due to its ability to foster advancement and diversity in Mathematics. This event will allow the presentation of cutting-edge research, facilitate academic collaboration and promote the formation of the university community. In addition, the seminar will encourage critical reflection on contemporary challenges in the discipline, thus reinforcing the university's position as a center of excellence in Mathematics.
 
 Objectives 
 ======
 
 General Objective
 ------
-Fomentar el avance y la difusión del conocimiento matemático en la comunidad académica de la Universidad Pedagógica Nacional a través de la realización de un seminario de Matemáticas que explore diversas temáticas avanzadas en la disciplina.
+To promote the advancement and dissemination of mathematical knowledge in the academic community of the Universidad Pedagógica Nacional through the organization of a seminar on Mathematics that explores various advanced topics in the discipline.
 
 Specific Objectives
 ------
@@ -31,7 +31,7 @@ Specific Objectives
 
 Seminar Schedule
 ======
-![Cronograma del Seminario](/images/seminarprogram.jpeg){: width="800px"}
+![Seminar Schedule](/images/seminarprogram.jpeg){: width="800px"}
 
 ---
 [Download spanish version PDF here](/files/Seminario de Matemáticas 2023 (Programa).pdf)

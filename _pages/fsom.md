@@ -17,6 +17,7 @@ Holding the 'Mathematics Seminar' at the Universidad Pedagógica Nacional is ess
 
 Objectives 
 ======
+
 General Objective
 ------
 Fomentar el avance y la difusión del conocimiento matemático en la comunidad académica de la Universidad Pedagógica Nacional a través de la realización de un seminario de Matemáticas que explore diversas temáticas avanzadas en la disciplina.
@@ -30,9 +31,7 @@ Specific Objectives
 
 Seminar Program
 ======
-![Cronograma del Seminario](/images/seminarprogram.jpeg){: width="500px"}
+![Cronograma del Seminario](/images/seminarprogram.jpeg){: width="600px"}
 
 ---
-[Download PDF here](/files/Seminario de Matemáticas 2023 (Programa).pdf)
-
-Recommended citation: Ladino, D. (2022). Introducción a DFT y su implementación en SIESTA; <i>Departamento de Física</i>. Universidad Distrital Francisco José de Caldas.'
+[Download spanish version PDF here](/files/Seminario de Matemáticas 2023 (Programa).pdf)

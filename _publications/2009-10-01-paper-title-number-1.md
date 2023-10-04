@@ -10,4 +10,4 @@ citation: 'Ladino, D. (2022). Introduction to DFT and its implementation in SIES
 ---
 [Download presentation here](/files/Ladino, D. (2022). Introducción a DFT. FSSOMP.pdf)
 
-Recommended citation: Ladino, D. (2022). Introduction to DFT and its implementation in SIESTA; <i>Departamento de Física, Universidad Distrital Francisco José de Caldas</i>. 1(1).'
+Recommended citation: Ladino, D. (2022). Introducción a DFT y su implementación en SIESTA; <i>Departamento de Física</i>. Universidad Distrital Francisco José de Caldas.'

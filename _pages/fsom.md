@@ -29,9 +29,9 @@ Specific Objectives
 1. To stimulate the active participation of students and professors of the Universidad Pedagógica Nacional in the seminar, encouraging their academic development and their interest in specialized areas of Mathematics.
 1. To foster collaboration and academic networking among attendees, which could lead to future collaborations and research projects in Mathematics.
 
-Seminar Program
+Seminar Schedule
 ======
-![Cronograma del Seminario](/images/seminarprogram.jpeg){: width="600px"}
+![Cronograma del Seminario](/images/seminarprogram.jpeg){: width="800px"}
 
 ---
 [Download spanish version PDF here](/files/Seminario de Matemáticas 2023 (Programa).pdf)

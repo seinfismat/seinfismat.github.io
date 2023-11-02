@@ -10,7 +10,7 @@ redirect_from:
 
 <i>First Seminar On Mathematics 2023</i>
 ------
-The SEIFM Mathematics Seminar is organized with the objective of promoting the advancement and diversity in the field of Mathematics. This event, sponsored by the engineering faculty of the Universidad Libre, provides a space to present advanced topics, foster academic collaboration and stimulate the academic training of students and professors.
+The SEIFM Mathematics Seminar is organized with the objective of promoting the advancement and diversity in the field of Mathematics. This event, sponsored by the engineering faculty of the Universidad Libre, provides a space to present advanced topics, foster academic collaboration and stimulate the academic training of students and professors. [See program here](https://seinfismat.github.io/fsom/).
 ![Flyer Primer Seminario de Matemáticas 2023](/images/fsomflyer.jpeg){: width="500px"}
 
 Talk <i>Más allá de las dimensiones: Explorando Sólidos con Grafos</i>

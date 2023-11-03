@@ -33,7 +33,7 @@ Seminar Schedule
 ======
 ![Seminar Schedule](/images/seminarprogram.jpeg){: width="800px"}
 
-Register for the seminar here: [https://docs.google.com/forms/d/e/1FAIpQLSdmRWlVBpTV_mmqJ1Y5rZ-KwhApYbJqXioIqucsv4szBO4Pow/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdmRWlVBpTV_mmqJ1Y5rZ-KwhApYbJqXioIqucsv4szBO4Pow/viewform)
+Register for the seminar here: [docs.google.com/forms](https://docs.google.com/forms/d/e/1FAIpQLSdmRWlVBpTV_mmqJ1Y5rZ-KwhApYbJqXioIqucsv4szBO4Pow/viewform)
 
 ---
 [Download spanish version PDF here](/files/Seminario de Matemáticas 2023 (Programa).pdf)

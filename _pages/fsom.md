@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "First Seminar On Mathematics (2023)"
+title: "FSOM|2023"
 permalink: /fsom/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+---
+[Download spanish version PDF here](/files/Seminario de Matemáticas 2023 (Programa).pdf)
 
 The <i>First Seminar On Mathematics</i> of the <i>SEIFM</i> is organized with the objective of promoting the advancement and diversity in the field of Mathematics. This event, sponsored by the engineering faculty of the Universidad Libre, provides a space to present advanced topics, foster academic collaboration and stimulate the training of students and professors.
 
@@ -34,6 +36,3 @@ Seminar Schedule
 ![Seminar Schedule](/images/seminarprogram.jpeg){: width="800px"}
 
 Register for the seminar here: [docs.google.com/forms](https://docs.google.com/forms/d/e/1FAIpQLSdmRWlVBpTV_mmqJ1Y5rZ-KwhApYbJqXioIqucsv4szBO4Pow/viewform)
-
----
-[Download spanish version PDF here](/files/Seminario de Matemáticas 2023 (Programa).pdf)
